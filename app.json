@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "comunicabelem",
+    "slug": "comunicabelem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "extra": {
+      "URL": "https://1a7b-2804-1b2-d082-e344-2d67-25a0-72be-fd77.ngrok-free.app",
+      "TOKEN": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEiLCJpYXQiOjE3MzM1OTM4ODEsImV4cCI6MTczNjE4NTg4MX0.3_64_Ex9XHQ7byVo1Rb6Vqg9UuvbUFxsl47AEiZtgo0",
+      "eas": {
+        "projectId": "0fc84346-849c-4862-ad00-87ca33d50972"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
